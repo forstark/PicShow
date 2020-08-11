@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="background">img/fond3.jpg</file>
+        <file alias="isen">img/Yncrea_BM_ISEN-_horizontal-1.jpg</file>
+    </qresource>
+</RCC>
